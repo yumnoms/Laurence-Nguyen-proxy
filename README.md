@@ -1,13 +1,13 @@
-# Project Name
+# Laurence-Nguyen-proxy
 
-> Project description
+Proxy server to serve up all 4 modules for YumNoms
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/yumnoms/reviews-service
+  - https://github.com/yumnoms/popular-dishes-service
+  - https://github.com/yumnoms/photo-carousel-service
+  - https://github.com/yumnoms/reservations-service
 
 ## Table of Contents
 
